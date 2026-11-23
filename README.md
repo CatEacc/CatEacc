@@ -20,6 +20,7 @@
 | **[vps-xray-runbook](https://github.com/CatEacc/vps-xray-runbook)** | 生产级 VPS 调优手册 & 四方案一键脚本（`Xray v26.11.9` / `3x-ui v3.11.0` / `XHTTP + REALITY` / `Vision` / `Hysteria 2` / 一键中转海外家宽） | 已发布 |
 | **[vps-clash-runbook](https://github.com/CatEacc/vps-clash-runbook)** | Clash (Mihomo v1.19.34) 零泄露 DNS、官方 mrs 规则集与 dialer-proxy 家宽链式分流手册 | 已发布 |
 | **[vps-singbox-runbook](https://github.com/CatEacc/vps-singbox-runbook)** | sing-box v1.14.4 无面板极简一键脚本（~20MB 内存、零弃用语法、单进程多协议 + 家宽 detour 中转） | 已发布 |
+| **[vps-linux-tuning](https://github.com/CatEacc/vps-linux-tuning)** | 纯 Linux 底层内核与内存调优一键脚本（512M 防 OOM 分档缓冲 / 99-zzz 防覆盖 / Hyper-V 气球与 GRO 加固） | 已发布 |
 
 ---
 
