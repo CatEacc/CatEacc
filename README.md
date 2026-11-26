@@ -15,12 +15,12 @@
 
 ### 开源项目导航
 
-| 项目 | 定位与核心特性 | 状态 |
+| 项目 | 定位与核心特性 | Stars & 状态 |
 | :--- | :--- | :---: |
-| **[vps-xray-runbook](https://github.com/CatEacc/vps-xray-runbook)** | 生产级 VPS 调优手册 & 四方案一键脚本（`Xray v26.11.9` / `3x-ui v3.11.0` / `XHTTP + REALITY` / `Vision` / `Hysteria 2` / 一键中转海外家宽） | 已发布 |
-| **[vps-clash-runbook](https://github.com/CatEacc/vps-clash-runbook)** | Clash (Mihomo v1.19.34) 零泄露 DNS、官方 mrs 规则集与 dialer-proxy 家宽链式分流手册 | 已发布 |
-| **[vps-singbox-runbook](https://github.com/CatEacc/vps-singbox-runbook)** | sing-box v1.14.4 无面板极简一键脚本（~20MB 内存、零弃用语法、单进程多协议 + 家宽 detour 中转） | 已发布 |
-| **[vps-linux-tuning](https://github.com/CatEacc/vps-linux-tuning)** | 纯 Linux 底层内核与内存调优一键脚本（512M 防 OOM 分档缓冲 / 99-zzz 防覆盖 / Hyper-V 气球与 GRO 加固 / 一键回滚） | 已发布 |
+| **[vps-singbox-runbook](https://github.com/CatEacc/vps-singbox-runbook)** | `sing-box v1.14.4` 零弃用语法无面板极简脚本（~20MB 内存 / REALITY / CF CDN / Hy2 原生直通家宽 / 默认封 TCP 25 / 只读家宽快检 / 官方 CI 校验） | ![Stars](https://img.shields.io/github/stars/CatEacc/vps-singbox-runbook?style=flat-square&color=blue) |
+| **[vps-xray-runbook](https://github.com/CatEacc/vps-xray-runbook)** | 生产级 VPS 调优手册 & 双模式一键脚本：3x-ui 面板版 `setup.sh` + 无面板纯手搓 JSON 版 `pure.sh`（`Xray v26.11.9` / XHTTP & Vision REALITY / `mldsa65` 抗量子 / 家宽中转 / 默认封 TCP 25 / 只读家宽快检） | ![Stars](https://img.shields.io/github/stars/CatEacc/vps-xray-runbook?style=flat-square&color=blue) |
+| **[vps-clash-runbook](https://github.com/CatEacc/vps-clash-runbook)** | Clash (`Mihomo v1.19.34`) 零泄露 Fake-IP DNS、官方 `.mrs` 规则集与 `dialer-proxy` 家宽链式分流手册 | ![Stars](https://img.shields.io/github/stars/CatEacc/vps-clash-runbook?style=flat-square&color=blue) |
+| **[vps-linux-tuning](https://github.com/CatEacc/vps-linux-tuning)** | 纯 Linux 底层内核与内存调优一键脚本（512M 防 OOM 分档缓冲 / `99-zzz` 防覆盖 / Hyper-V 气球与 GRO 加固 / 一键回滚） | ![Stars](https://img.shields.io/github/stars/CatEacc/vps-linux-tuning?style=flat-square&color=blue) |
 
 ---
 
