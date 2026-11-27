@@ -17,10 +17,10 @@
 
 | 项目 | 定位与核心特性 | 状态 |
 | :--- | :--- | :---: |
-| **[vps-xray-runbook](https://github.com/CatEacc/vps-xray-runbook)** | 生产级 VPS 部署手册 & 双形态一键脚本（`setup.sh` 3x-ui 面板版 + `pure.sh` ~25MB 纯手搓 JSON 版 / `Xray v26.11.9` / `XHTTP + REALITY` / `Vision` / `mldsa65` / 家宽快检与一键中转） | 已发布 |
-| **[vps-singbox-runbook](https://github.com/CatEacc/vps-singbox-runbook)** | sing-box v1.14.4 无面板极简一键脚本（~20MB 内存、零弃用语法、9 大地区非 CF SNI 测速复检、单进程 Hy2 端口跳跃 + 家宽 detour 中转） | 已发布 |
-| **[vps-clash-runbook](https://github.com/CatEacc/vps-clash-runbook)** | Clash (Mihomo v1.19.34) 零泄露 Fake-IP DNS、官方 mrs 规则集、`clash.sh` 一键配置生成与 `override.js` 家宽链式分流覆写 | 已发布 |
-| **[vps-linux-tuning](https://github.com/CatEacc/vps-linux-tuning)** | 纯 Linux 底层内核与内存调优一键脚本（512M 防 OOM 分档缓冲 / 99-zzz 防覆盖 / 默认封出站 TCP 25 / Hyper-V 气球与 GRO 加固 / 一键回滚） | 已发布 |
+| **[vps-xray-runbook](https://github.com/CatEacc/vps-xray-runbook)** | Xray 生产级一键脚本与底层内核调优：`setup.sh`（3x-ui 面板版）& `pure.sh`（~25MB 无面板纯 JSON 版），内置 `REALITY SNI` 四重体检、CF 实测优选出码、家宽一键中转与默认封禁 TCP 25 | 已发布 |
+| **[vps-singbox-runbook](https://github.com/CatEacc/vps-singbox-runbook)** | sing-box 零弃用语法无面板极简一键脚本（~20MB 内存）：原生支持 `REALITY` / CF 实测优选出码 / 单进程 Hy2 端口跳跃直通家宽，内置 SNI 四重体检、家宽快检与默认封禁 TCP 25 | 已发布 |
+| **[vps-clash-runbook](https://github.com/CatEacc/vps-clash-runbook)** | Mihomo / Clash Verge Rev 零泄露 Fake-IP DNS 配置、官方 `mrs` 规则集、`clash.sh` 一键生成与 `override.js` 链式家宽分流覆写 | 已发布 |
+| **[vps-linux-tuning](https://github.com/CatEacc/vps-linux-tuning)** | 纯 Linux 底层内核与内存调优一键脚本：BBR + fq 自动开启、512M 防 OOM 分档缓冲、Journald 限容、默认封出站 TCP 25 与一键无损回滚 | 已发布 |
 
 ---
 
